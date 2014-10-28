@@ -1,6 +1,22 @@
 # Site navigation links
+- title: Partners/Team
+  url: /partners/
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Global
+url: /global/
+
+- title: Curriculum
+url: /curriculum/
+
+- title: Progress
+url: /progress/
+
+- title: Reports
+url: /reports/
+
+- title: Support
+url: /support/
+
+- title: Contact
+url: /contact/
+
